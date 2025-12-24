@@ -1,1 +1,78 @@
-
+{
+  "education": [
+    {
+      "college": "M S Ramaiah Institute Of Technology",
+      "edu": "Bachelor of Engineering",
+      "status": "Pursuing",
+      "year": ""
+    },
+    {
+      "college": "Govt. Polytechnic Siddapur",
+      "edu": "Diploma in Computer Science",
+      "status": "Completed",
+      "year": "2024"
+    },
+    {
+      "college": "Govt. Mohan K Shetty P.U College",
+      "edu": "Pre University Education",
+      "status": "Completed",
+      "year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "CanaraTechLabs Pvt Ltd",
+      "role": "Intern",
+      "link": "https://canaratechlabs.com/",
+      "tenure_period": "Jan 2024 - Apr 2024",
+      "works": [
+        "Built full-stack applications using React.js, Node.js, Express.js, and MongoDB",
+        "Developed a multilingual news app to improve accessibility",
+        "Created a sports engagement platform (Sprentzo Sports) with user interaction features"
+      ]
+    }
+  ],
+  "skills": {
+    "Technical": {
+      "Programming & Development": {
+        "MERN Stack (MongoDB, Express.js, React.js, Node.js)": "devicon-express-original colored",
+        "Python": "devicon-python-plain colored",
+        "JavaScript": "devicon-javascript-plain colored"
+      },
+      "Databases & Tools": {
+        "SQL": "devicon-mysql-original colored",
+        "Git/GitHub": "devicon-github-original colored",
+        "REST APIs": "fas fa-network-wired",
+        "VS Code": "devicon-vscode-plain colored"
+      },
+      "DevOps": {
+        "AWS S3": "fas fa-cloud",
+        "Vercel": "devicon-vercel-line-wordmark colored"
+      }
+    },
+    "Soft Skills": [
+      "Problem-Solving",
+      "Teamwork",
+      "Communication",
+      "Time Management"
+    ]
+  },
+  "contact": {
+    "msg": {
+      "Phone": "9353640765",
+      "Mail": "kn670423@gmail.com"
+    },
+    "follow": {
+      "Instagram": "https://www.instagram.com/krishna_nk08/",
+      "Linkedin": "https://www.linkedin.com/in/krishnaunaik/",
+      "Github": "https://github.com/KrishnaNaik6"
+    }
+  },
+  "interest" : [
+    "Passionate about AI/ML and full-stack development.",
+   "Active contributor to GitHub with multiple personal projects.",
+   "Strong interest in building scalable software for real-world impact."
+    ],
+  "achievements" : [
+  ]
+}
