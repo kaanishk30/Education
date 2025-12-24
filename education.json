@@ -7,12 +7,6 @@
       "year": ""
     },
     {
-      "college": "Govt. Polytechnic Siddapur",
-      "edu": "Diploma in Computer Science",
-      "status": "Completed",
-      "year": "2024"
-    },
-    {
       "college": "Govt. Mohan K Shetty P.U College",
       "edu": "Pre University Education",
       "status": "Completed",
@@ -20,17 +14,6 @@
     }
   ],
   "experience": [
-    {
-      "company": "CanaraTechLabs Pvt Ltd",
-      "role": "Intern",
-      "link": "https://canaratechlabs.com/",
-      "tenure_period": "Jan 2024 - Apr 2024",
-      "works": [
-        "Built full-stack applications using React.js, Node.js, Express.js, and MongoDB",
-        "Developed a multilingual news app to improve accessibility",
-        "Created a sports engagement platform (Sprentzo Sports) with user interaction features"
-      ]
-    }
   ],
   "skills": {
     "Technical": {
@@ -59,13 +42,13 @@
   },
   "contact": {
     "msg": {
-      "Phone": "9353640765",
-      "Mail": "kn670423@gmail.com"
+      "Phone": "6360442721",
+      "Mail": "kaanishkchinmayi@gmail.com"
     },
     "follow": {
-      "Instagram": "https://www.instagram.com/krishna_nk08/",
-      "Linkedin": "https://www.linkedin.com/in/krishnaunaik/",
-      "Github": "https://github.com/KrishnaNaik6"
+      "Instagram": "https://www.instagram.com/kaanishk_308/",
+      "Linkedin": "https://www.linkedin.com/in/kaanishk-y-k2005y/",
+      "Github": "https://github.com/kaanishk30"
     }
   },
   "interest" : [
