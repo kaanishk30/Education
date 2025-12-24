@@ -7,10 +7,10 @@
       "year": ""
     },
     {
-      "college": "Govt. Mohan K Shetty P.U College",
+      "college": "Expert Pre University College",
       "edu": "Pre University Education",
       "status": "Completed",
-      "year": "2022"
+      "year": "2023"
     }
   ],
   "experience": [
@@ -18,20 +18,17 @@
   "skills": {
     "Technical": {
       "Programming & Development": {
-        "MERN Stack (MongoDB, Express.js, React.js, Node.js)": "devicon-express-original colored",
+        
         "Python": "devicon-python-plain colored",
         "JavaScript": "devicon-javascript-plain colored"
       },
       "Databases & Tools": {
-        "SQL": "devicon-mysql-original colored",
+        
         "Git/GitHub": "devicon-github-original colored",
-        "REST APIs": "fas fa-network-wired",
+       
         "VS Code": "devicon-vscode-plain colored"
       },
-      "DevOps": {
-        "AWS S3": "fas fa-cloud",
-        "Vercel": "devicon-vercel-line-wordmark colored"
-      }
+      
     },
     "Soft Skills": [
       "Problem-Solving",
@@ -53,7 +50,7 @@
   },
   "interest" : [
     "Passionate about AI/ML and full-stack development.",
-   "Active contributor to GitHub with multiple personal projects.",
+   
    "Strong interest in building scalable software for real-world impact."
     ],
   "achievements" : [
